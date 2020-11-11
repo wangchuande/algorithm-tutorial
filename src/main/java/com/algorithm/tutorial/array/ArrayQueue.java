@@ -1,3 +1,5 @@
+package com.algorithm.tutorial.array;
+
 public class ArrayQueue {
 
     private String[] queue;

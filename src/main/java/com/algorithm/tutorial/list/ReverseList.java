@@ -1,3 +1,5 @@
+package com.algorithm.tutorial.list;
+
 public class ReverseList {
     public ListNode reverseList(ListNode head) {
         ListNode newHead = new ListNode();

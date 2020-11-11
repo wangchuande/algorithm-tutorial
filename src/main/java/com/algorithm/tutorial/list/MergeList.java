@@ -1,3 +1,5 @@
+package com.algorithm.tutorial.list;
+
 public class MergeList {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         if (l1 == null && l2 == null) {
