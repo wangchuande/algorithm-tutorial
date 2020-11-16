@@ -29,7 +29,7 @@ public class QuickSort {
         int i = start;
         int j = i;
 
-        while (j <= end) {
+        while (j < end) {
             if (nums[j] < value) {
                 int tmp = nums[i];
                 nums[i] = nums[j];
